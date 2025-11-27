@@ -1,19 +1,20 @@
 <?php
 /**
  * Plugin Name: Funnelsheet – WooCommerce Server-Side Tracking (GA4 & GTM-SS)
- * Plugin URI: https://funnelsheet.com/woocommerce-server-tracking
+ * Plugin URI: https://vizuh.com
  * Description: Capture 100% of WooCommerce purchases using bulletproof server-side tracking. Bypasses ad blockers by sending events to GA4 or sGTM from your server.
  * Version: 1.0.0
- * Author: Funnelsheet
- * Author URI: https://funnelsheet.com
+ * Author: Vizuh, HugoC, Atroci
+ * Author URI: https://vizuh.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: funnelsheet-woo-server-tracking
  * Domain Path: /languages
- * Requires at least: 5.8
+ * Requires at least: 5.9
+ * Tested up to: 6.7
  * Requires PHP: 7.4
  * WC requires at least: 3.5
- * WC tested up to: 8.5
+ * WC tested up to: 9.4
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
